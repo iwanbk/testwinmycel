@@ -1721,6 +1721,7 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 [[package]]
 name = "winmycelium"
 version = "0.1.0"
+source = "git+https://github.com/iwanbk/winmycelium#adf5f0183eecae4181a01b3e014cbf00e96269e9"
 dependencies = [
  "mycelium",
  "once_cell",
